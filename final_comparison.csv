@@ -1,0 +1,4 @@
+Architecture,Accuracy,Classification Error,Sensitivity,Specificity,Learnable Parameters,Mult-Adds (FLOPs)
+B1_AlexNet,0.7420,0.2580,1.0000,0.3120,"99,569","312,514,064"
+B2_VGG,0.8782,0.1218,0.9949,0.6838,"18,185","155,717,648"
+B3_ResNet,0.9167,0.0833,0.9872,0.7991,"77,169","202,386,960"
